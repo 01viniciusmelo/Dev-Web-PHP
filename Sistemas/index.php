@@ -18,20 +18,25 @@
         <a href="index.php"><img src="img/fire.png"></a>
     </div>
 </nav>
-
+<div id="header">
+    <h1>aaaaa</h1>
+    <p>aaabbbbb</p>
+</div>
 <article id="art">
     <div id="pcp">
 
-        <h1>Desenvolvimento de WEB-SITE</h1>
+        <h1>Desenvolvimento de Web-sites e Sistemas</h1>
         <img src="img/frame.png">
 
-        <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos,
-        e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos
-        e os embaralhou para fazer um livro de modelos de tipos.</p>
-        <p>Lorem Ipsum sobreviveu não só a cinco séculos, como também ao salto para a editoração eletrônica,
-            permanecendo essencialmente inalterado.</p>
-        <p>Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum,
-        e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
+        <h3>Web Site</h3>
+        <p>
+            Com o crescimento do e-commece
+
+        </p>
+        <p>
+            Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum,
+            e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.
+        </p>
     </div>
 
     <div id="sub">
@@ -40,8 +45,7 @@
         <p>
             É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página
             quando estiver examinando sua diagramação.
-        </p>
-        <p>
+
             A vantagem de usar Lorem Ipsum é que ele tem uma distribuição normal de letras, ao contrário de
             "Conteúdo aqui, conteúdo aqui", fazendo com que ele tenha uma aparência
             similar a de um texto legível.
@@ -57,8 +61,11 @@
         </p>
     </div>
 </article>
-<div id="section">
+<div id="meio">
 
+aaaaaa
+</div>
+<div id="meio-fim">
 
 </div>
 </body>

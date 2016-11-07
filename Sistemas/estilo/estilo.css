@@ -35,8 +35,16 @@
     font:15px Steinerlight, Helvetica, sans-serif;
 }
 .menu li a:hover {color:#fff;}
+#header{
+    background-color: black;
+    width: 100%;
+    height: 40em;
+    border-bottom: 1px solid orangered;
+}
+#header h1,p{
+    color: white;
+}
 #art{
-    margin-top: 4.0em;
     background-color: black;
     width:100%;
     height: 37.4em;
@@ -79,7 +87,13 @@
     height: 20px;
     margin-top: -10px;
 }
-#section{
+#meio{
+    background-color: black;
+    width: 100%;
+    height: 40em;
+    border-bottom: 1px solid orangered;
+}
+#meio-fim{
     background-color: black;
     width: 100%;
     height: 40em;

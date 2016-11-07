@@ -18,7 +18,9 @@
         <a href="index.php"><img src="img/fire.png"></a>
     </div>
 </nav>
-
+<div id="header">
+    aaaa
+</div>
 <article id="art">
     <div id="pcp">
 
