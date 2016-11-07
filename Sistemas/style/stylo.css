@@ -1,0 +1,24 @@
+#menu {
+    background:black;
+    margin-top:-9px;
+    list-style-type:none;
+    width:100%;
+    height:2em;
+    border-radius: 0 0 5px 5px;
+    color: mediumblue;
+}
+#menu li {
+    float:right;
+    margin: 10px;
+    margin-top: -2px;
+}
+#menu li a {
+    padding:9px 9px 9%;
+    display:block;
+    color:blue;
+    text-decoration:none;
+    font:15px Steinerlight, Helvetica, sans-serif;
+
+}
+#menu li a:hover {color:orange;}
+#menu ul{float: right; margin: 10px;}
