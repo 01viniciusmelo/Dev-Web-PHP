@@ -1,9 +1,10 @@
-*{
-    margin:0;
-    padding: 0;
-    border: none;
-    outline: none;
+*{ margin:0; padding: 0;  }
+* h1{
+    text-align: center;
+    color: white;
+    margin: 2em;
 }
+/*formatação do menu superior*/
 .menu{
     height: 4em;
     background:black;
@@ -26,6 +27,7 @@
     float: left;
     padding: 5px;
     margin: 5px;
+    list-style-type: none;
 }
 .menu li a {
     padding:9px 9px 9%;
@@ -35,15 +37,80 @@
     font:15px Steinerlight, Helvetica, sans-serif;
 }
 .menu li a:hover {color:#fff;}
-#header{
+/*formatação do header */
+.header{
+    margin-top: 4.0em;
     background-color: black;
     width: 100%;
-    height: 40em;
+    height: 37em;
     border-bottom: 1px solid orangered;
+
 }
-#header h1,p{
+.listaUM{
+    background-color: orangered;
+    width: 100%;
+    height: 18.5em;
+    color: white;
+
+}
+.listaDois{
+    background-color: orangered;
+    width: 100%;
+    height: 18.5em;
     color: white;
 }
+#itemum {
+    background-color: black;
+    width:445px;
+    height: 18.4em;
+    float: left;
+    margin: 1px 1px 1px 1px;
+    border-radius: 5px 5px 5px 5px;
+    background: -webkit-gradient(linear, left top, left bottom, from(black), to(orangered));
+
+
+}
+#itemdosi{
+    background-color: black;
+    width:445px;
+    height: 18.4em;
+    float: left;
+    margin: 1px 1px 1px 1px;
+    border-radius: 5px 5px 5px 5px;
+}
+#itemtres{
+    background-color: black;
+    width:445px;
+    height: 18.4em;
+    float: left;
+    margin: 1px 1px 1px 1px;
+    border-radius: 5px 5px 5px 5px;
+}
+#a{
+    background-color: black;
+    width:445px;
+    height: 18.4em;
+    float: left;
+    margin: 1px 1px 1px 1px;
+    border-radius: 5px 5px 5px 5px;
+}
+#b{
+    background-color: black;
+    width:445px;
+    height: 18.4em;
+    float: left;
+    margin: 1px 1px 1px 1px;
+    border-radius: 5px 5px 5px 5px;
+}
+#c{
+    background-color: black;
+    width:445px;
+    height: 18.4em;
+    float: left;
+    margin: 1px 1px 1px 1px;
+    border-radius: 5px 5px 5px 5px;
+}
+/*formatação artigo */
 #art{
     background-color: black;
     width:100%;
@@ -67,11 +134,7 @@
     text-align: justify;
     color: white;
 }
-* h1{
-    text-align: center;
-    color: white;
-    margin: 2em;
-}
+
 #sub{
     float: right;
     width:48%;
@@ -87,10 +150,11 @@
     height: 20px;
     margin-top: -10px;
 }
+/*formataçao do meio-fim*/
 #meio{
     background-color: black;
     width: 100%;
-    height: 40em;
+    height: 37.8em;
     border-bottom: 1px solid orangered;
 }
 #meio-fim{
@@ -99,3 +163,20 @@
     height: 40em;
     border-bottom: 1px solid orangered;
 }
+/*
+texto dentro de imagens
+
+#container {
+  display: inline-block;
+  position: relative;
+}
+
+#container figcaption {
+  position: absolute;
+  top: 145px;
+  right: 20px;
+  font-size: 40px;
+  color: black;
+  text-shadow: 0px 0px 5px black;
+}
+*/
