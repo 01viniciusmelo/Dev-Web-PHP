@@ -32,13 +32,11 @@
             permanecendo essencialmente inalterado.</p>
         <p>Se popularizou na década de 60, quando a Letraset lançou decalques contendo passagens de Lorem Ipsum,
         e mais recentemente quando passou a ser integrado a softwares de editoração eletrônica como Aldus PageMaker.</p>
-
     </div>
 
     <div id="sub">
         <h1>Linguagens de programação</h1>
         <img src="img/frame.png">
-
         <p>
             É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página
             quando estiver examinando sua diagramação.
@@ -58,9 +56,10 @@
             (injetando humor, e coisas do gênero).
         </p>
     </div>
-
 </article>
+<div id="section">
 
 
+</div>
 </body>
 </html>
