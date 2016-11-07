@@ -21,9 +21,9 @@
 
 <article id="art">
     <div id="pcp">
-        <img src="img/frame.png">
 
         <h1>Desenvolvimento de WEB-SITE</h1>
+        <img src="img/frame.png">
 
         <p>Lorem Ipsum é simplesmente uma simulação de texto da indústria tipográfica e de impressos,
         e vem sendo utilizado desde o século XVI, quando um impressor desconhecido pegou uma bandeja de tipos
@@ -37,6 +37,7 @@
 
     <div id="sub">
         <h1>Linguagens de programação</h1>
+        <img src="img/frame.png">
 
         <p>
             É um fato conhecido de todos que um leitor se distrairá com o conteúdo de texto legível de uma página

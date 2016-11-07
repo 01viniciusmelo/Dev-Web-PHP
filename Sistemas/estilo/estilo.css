@@ -64,7 +64,6 @@
     margin: 2em;
 }
 #sub{
-
     float: right;
     width:48%;
 }
@@ -72,4 +71,10 @@
 #pcp{
     float: left;
     width:48%;
+    text-align: justify;
+}
+#art img{
+    width: 400px;
+    height: 20px;
+    margin-top: -10px;
 }

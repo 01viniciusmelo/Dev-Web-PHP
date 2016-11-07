@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg3348"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="fire.svg"
+   inkscape:export-filename="C:\wamp64\www\Sistemas\img\fire.png"
+   inkscape:export-xdpi="143.05133"
+   inkscape:export-ydpi="143.05133">
+  <defs
+     id="defs3350">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4198">
+      <stop
+         style="stop-color:#ed1104;stop-opacity:1;"
+         offset="0"
+         id="stop4200" />
+      <stop
+         style="stop-color:#ed1104;stop-opacity:0;"
+         offset="1"
+         id="stop4202" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient4144">
+      <stop
+         style="stop-color:#ef1b05;stop-opacity:1;"
+         offset="0"
+         id="stop4146" />
+      <stop
+         style="stop-color:#ef1b05;stop-opacity:0;"
+         offset="1"
+         id="stop4148" />
+    </linearGradient>
+    <pattern
+       patternUnits="userSpaceOnUse"
+       width="710.98769"
+       height="280.94586"
+       patternTransform="translate(7.6716076,247.06154)"
+       id="pattern3408">
+      <text
+         transform="scale(0.63419424,1.576804)"
+         sodipodi:linespacing="125%"
+         id="text3356"
+         y="151.88181"
+         x="565.78455"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:220.45835876px;line-height:125%;font-family:'Juice ITC';-inkscape-font-specification:'Juice ITC, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:185.04100037px;line-height:125%;font-family:'Juice ITC';-inkscape-font-specification:'Juice ITC, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#ff6600"
+           y="151.88181"
+           x="565.78455"
+           id="tspan3358"
+           sodipodi:role="line"><tspan
+   id="tspan3362"
+   style="fill:#e3dbdb">FIRE LINE - CODE </tspan>&lt;/&gt;</tspan></text>
+    </pattern>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4144"
+       id="linearGradient4150"
+       x1="9.2860288"
+       y1="441.68866"
+       x2="658.92635"
+       y2="441.68866"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient4198"
+       id="linearGradient4204"
+       x1="38.492481"
+       y1="505.93362"
+       x2="751.50757"
+       y2="498.79077"
+       gradientUnits="userSpaceOnUse" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.7"
+     inkscape:cx="375.33183"
+     inkscape:cy="551.71365"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata3353">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:107.22624969px;line-height:125%;font-family:'Juice ITC';-inkscape-font-specification:'Juice ITC, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ee430d;fill-opacity:1;stroke:url(#linearGradient4150);stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="337.14285"
+       y="478.07648"
+       id="text4983"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4985"
+         x="337.14285"
+         y="478.07648"
+         style="fill:#ee430d;stroke:url(#linearGradient4150);fill-opacity:1;">FIRE LINE - CODE &lt;/&gt;</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:url(#linearGradient4204);stroke-width:25;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 18.571428,499.50506 688.57142,495.21935"
+       id="path4196"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
