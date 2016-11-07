@@ -44,14 +44,12 @@
     width: 100%;
     height: 37em;
     border-bottom: 1px solid orangered;
-
 }
 .listaUM{
     background-color: orangered;
     width: 100%;
     height: 18.5em;
     color: white;
-
 }
 .listaDois{
     background-color: orangered;
@@ -59,6 +57,13 @@
     height: 18.5em;
     color: white;
 }
+.header img{
+    width: 100px;
+    height: 100px;
+    margin-left: 46%;
+    margin-top: -20%;
+}
+
 #itemum {
     background-color: black;
     width:445px;
@@ -66,9 +71,6 @@
     float: left;
     margin: 1px 1px 1px 1px;
     border-radius: 5px 5px 5px 5px;
-    background: -webkit-gradient(linear, left top, left bottom, from(black), to(orangered));
-
-
 }
 #itemdosi{
     background-color: black;
@@ -154,7 +156,7 @@
 #meio{
     background-color: black;
     width: 100%;
-    height: 37.8em;
+    height: 40em;
     border-bottom: 1px solid orangered;
 }
 #meio-fim{
@@ -179,4 +181,27 @@ texto dentro de imagens
   color: black;
   text-shadow: 0px 0px 5px black;
 }
+*/
+/*
+linha que enche quando o mouse passa por cima.....
+
+.mudacor {
+background-color: #ff4b33; //cor de fundo da div
+color: #fff; // cor do texto dentro da div
+width:50%; //largura da div
+height: 30px; //altura da div
+-webkit-transition: 0.8s linear;
+-moz-transition: 0.8s linear;
+-o-transition: 0.8s linear
+}
+.mudacor:hover {
+background-color: #fff;
+color: #000;
+width:70%; //largura da div
+-webkit-transition: 0.3s linear;
+-moz-transition: 0.3s linear;
+-o-transition: 0.3s linear
+}
+
+
 */

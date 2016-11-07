@@ -22,7 +22,36 @@
 
     <div class="listaUM">
         <div id="itemum">
-            a
+
+            <?php
+                $n2 = $_POST["num2"];
+                $n1 = $_POST["num1"];
+                $res = $n1 * $n2;
+             ?>
+
+            <form method="post">
+
+                Número 1:<input type="text" name="num1">
+                <br><br>
+                Número 2:<input type="text" name="num2">
+                <br><br>
+                Resultado:<input type="text" name="result" value="<?php echo $res; ?>"><br>
+                <br>
+
+                <input type="submit" value="CALCULADORA SALARIO">
+
+            </form>
+
+
+
+
+
+
+
+
+
+
+
         </div>
         <div id="itemdosi">
             c
