@@ -24,34 +24,28 @@
         <div id="itemum">
 
             <?php
-                $n2 = $_POST["num2"];
-                $n1 = $_POST["num1"];
-                $res = $n1 * $n2;
+
+
+            if($n1 = $_POST["dias"]){
+                ($n1 * 11) - 191;
+            }
+            $n2 = $_POST["fds"];
+            $n3 = $_POST["piso"];
+            $adic = ($n3 * 30) / 100;
+
              ?>
 
-            <form method="post">
-
-                Número 1:<input type="text" name="num1">
-                <br><br>
-                Número 2:<input type="text" name="num2">
-                <br><br>
-                Resultado:<input type="text" name="result" value="<?php echo $res; ?>"><br>
+            <form method="post" id="formulario">
+                <h4>Dias:</h4> <input type="text" name="dias">
                 <br>
-
+                <h4>Finais de Semanas e Feriados:</h4><input type="text" name="fds">
+                <br>
+                <h4>Piso:</h4><input type="text" name="piso" value="">
+                <br>
+                <h4>Resultado:<script> document.write(<?php echo $adic; ?>)</script>
+                <br>
                 <input type="submit" value="CALCULADORA SALARIO">
-
             </form>
-
-
-
-
-
-
-
-
-
-
-
         </div>
         <div id="itemdosi">
             c
