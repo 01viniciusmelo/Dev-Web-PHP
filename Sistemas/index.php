@@ -20,11 +20,10 @@
 </nav>
 <div class="header">
 
-    <div class="listaUM">
         <div id="itemum">
 
             <?php
-
+            /*
 
             if($n1 = $_POST["dias"]){
                 ($n1 * 11) - 191;
@@ -32,39 +31,23 @@
             $n2 = $_POST["fds"];
             $n3 = $_POST["piso"];
             $adic = ($n3 * 30) / 100;
-
+*/
              ?>
 
             <form method="post" id="formulario">
-                <h4>Dias:</h4> <input type="text" name="dias">
-                <br>
-                <h4>Finais de Semanas e Feriados:</h4><input type="text" name="fds">
-                <br>
-                <h4>Piso:</h4><input type="text" name="piso" value="">
-                <br>
-                <h4>Resultado:<script> document.write(<?php echo $adic; ?>)</script>
-                <br>
-                <input type="submit" value="CALCULADORA SALARIO">
+                    <p><input type="text" name="piso"> --- Piso</p>
+                    <br>
+                    <p><input type="text" name="dias"> --- Dias Trabalhados:</p>
+                    <br>
+                    <p><input type="text" name="dsr"> --- Calculo do DSR - Domingos e Feriados trabalhados</p>
+                    <br>
+                <input type="submit">
             </form>
         </div>
-        <div id="itemdosi">
-            c
-        </div>
-        <div id="itemtres">
-            c
-        </div>
+    <div id="resultado">
+        resultado da pesquisa
     </div>
-    <div class="listaDois">
-        <div id="a">
-            a
-        </div>
-        <div id="b">
-            c
-        </div>
-        <div id="c">
-            c
-        </div>
-    </div>
+
 </div>
 <article id="art">
     <div id="pcp">
