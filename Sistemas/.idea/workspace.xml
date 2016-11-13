@@ -21,16 +21,26 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+            <state relative-caret-position="-201">
+              <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
               <folding>
-                <element signature="e#606#803#0#PHP" expanded="true" />
-                <marker date="1478917916115" expanded="true" signature="1956:2247" ph="..." />
-                <marker date="1478917916115" expanded="true" signature="2386:2548" ph="..." />
+                <element signature="e#674#871#0#PHP" expanded="true" />
+                <marker date="1478997778452" expanded="true" signature="4262:4553" ph="..." />
+                <marker date="1478997778452" expanded="true" signature="4692:4854" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="tabela.css" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/estilo/tabela.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="425">
+              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -38,8 +48,8 @@
       <file leaf-file-name="estilo.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/estilo/estilo.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+            <state relative-caret-position="54">
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,6 +61,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -64,6 +75,7 @@
         <option value="$PROJECT_DIR$/sobre.php" />
         <option value="$PROJECT_DIR$/calc.php" />
         <option value="$PROJECT_DIR$/estilo/estilo.css" />
+        <option value="$PROJECT_DIR$/estilo/tabela.css" />
         <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
@@ -125,6 +137,20 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistemas" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Sistemas" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="estilo" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scratches" />
@@ -135,6 +161,7 @@
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -199,14 +226,15 @@
       <workItem from="1478550160558" duration="9148000" />
       <workItem from="1478642200331" duration="150000" />
       <workItem from="1478910558319" duration="7346000" />
+      <workItem from="1478967167402" duration="5439000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42430000" />
+    <option name="totallyTimeSpent" value="47869000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1376" height="744" extended-state="7" />
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -249,9 +277,29 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#606#803#0#PHP" expanded="true" />
-            <marker date="1478917916115" expanded="true" signature="1956:2247" ph="..." />
-            <marker date="1478917916115" expanded="true" signature="2386:2548" ph="..." />
+            <element signature="e#674#871#0#PHP" expanded="true" />
+            <marker date="1478997778452" expanded="true" signature="4262:4553" ph="..." />
+            <marker date="1478997778452" expanded="true" signature="4692:4854" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estilo/estilo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1343">
+          <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#674#871#0#PHP" expanded="true" />
+            <marker date="1478997778452" expanded="true" signature="4262:4553" ph="..." />
+            <marker date="1478997778452" expanded="true" signature="4692:4854" ph="..." />
           </folding>
         </state>
       </provider>
@@ -269,9 +317,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#606#803#0#PHP" expanded="true" />
-            <marker date="1478917916115" expanded="true" signature="1956:2247" ph="..." />
-            <marker date="1478917916115" expanded="true" signature="2386:2548" ph="..." />
+            <element signature="e#674#871#0#PHP" expanded="true" />
+            <marker date="1478997778452" expanded="true" signature="4262:4553" ph="..." />
+            <marker date="1478997778452" expanded="true" signature="4692:4854" ph="..." />
           </folding>
         </state>
       </provider>
@@ -289,9 +337,9 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#606#803#0#PHP" expanded="true" />
-            <marker date="1478917916115" expanded="true" signature="1956:2247" ph="..." />
-            <marker date="1478917916115" expanded="true" signature="2386:2548" ph="..." />
+            <element signature="e#674#871#0#PHP" expanded="true" />
+            <marker date="1478997778452" expanded="true" signature="4262:4553" ph="..." />
+            <marker date="1478997778452" expanded="true" signature="4692:4854" ph="..." />
           </folding>
         </state>
       </provider>
@@ -345,21 +393,29 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/estilo/estilo.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="79" column="2" selection-start-line="79" selection-start-column="2" selection-end-line="79" selection-end-column="2" />
+        <state relative-caret-position="54">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="47" column="29" selection-start-line="47" selection-start-column="29" selection-end-line="47" selection-end-column="29" />
+        <state relative-caret-position="-201">
+          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
           <folding>
-            <element signature="e#606#803#0#PHP" expanded="true" />
-            <marker date="1478917916115" expanded="true" signature="1956:2247" ph="..." />
-            <marker date="1478917916115" expanded="true" signature="2386:2548" ph="..." />
+            <element signature="e#674#871#0#PHP" expanded="true" />
+            <marker date="1478997778452" expanded="true" signature="4262:4553" ph="..." />
+            <marker date="1478997778452" expanded="true" signature="4692:4854" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/estilo/tabela.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

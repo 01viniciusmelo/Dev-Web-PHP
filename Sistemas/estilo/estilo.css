@@ -53,31 +53,6 @@
     margin: 5px 1px 5px 8px;
     border-radius: 3px 3px 3px 3px;
 }
-input[type=text]{
-    width: 20%;
-    margin: 1% 1% 0 1%;
-    display: inline-block;
-    border: 1px solid orangered;
-    border-radius: 9px;
-    box-sizing: border-box;
-    height: 30px;
-}
-input[type=submit] {
-    position: relative;
-    display: inline-block;
-    width: 30%;
-    margin: 3% 1% 1% 30%;
-    padding: 0 20px;
-    font-size: 15px;
-    height: 40px;
-    text-align: center;
-    color: black;
-    background-color: orangered;
-    text-decoration: none;
-    cursor: pointer;
-    white-space: nowrap;
-    border-radius: 4px;
- }
 /*formatação artigo */
 #art{
     background-color: white;
