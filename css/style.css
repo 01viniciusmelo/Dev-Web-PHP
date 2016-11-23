@@ -5,7 +5,7 @@
 }
 header{
 	margin: 100px auto;
-	margin-top: 100px;
+	margin-top: 200px;
 	width: 1200px;
 	height: 230px;
 	background-color: red;
@@ -61,5 +61,5 @@ p.texto{
 	opacity: 1;
 }
 .nav:hover img{
-	-webkit-box-shadow:0px 0px 0px 30px rgba(255, 255, 255,.6);
+	-webkit-box-shadow:0px 0px 0px 7px rgba(255, 255, 255,.6);
 }
