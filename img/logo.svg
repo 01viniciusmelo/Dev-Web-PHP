@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="603.5816"
+     inkscape:cy="544.69378"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1360"
+     inkscape:window-height="706"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="false"
+     inkscape:snap-page="true"
+     inkscape:snap-center="false"
+     inkscape:snap-object-midpoints="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:148.30847168px;line-height:300%;font-family:'Juice ITC';-inkscape-font-specification:'Juice ITC, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="371.56979"
+       y="543.10175"
+       id="text3336"
+       sodipodi:linespacing="300%"
+       transform="scale(0.99055802,1.009532)"
+       inkscape:export-xdpi="297.52896"
+       inkscape:export-ydpi="297.52896"><tspan
+         sodipodi:role="line"
+         id="tspan3338"
+         x="371.56979"
+         y="543.10175"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:124.48221588px;line-height:300%;font-family:'Juice ITC';-inkscape-font-specification:'Juice ITC, Normal';text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:10;stroke-miterlimit:4;stroke-dasharray:none"><tspan
+   style="opacity:0.616"
+   id="tspan4192">RAFAEL </tspan>&lt;/&gt; CODE</tspan></text>
+    <rect
+       style="fill:#483737;fill-opacity:0;stroke:#000000;stroke-width:10.5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:42,42;stroke-dashoffset:4.19999975;stroke-opacity:1"
+       id="rect4166"
+       width="686.90375"
+       height="157.5838"
+       x="30.304577"
+       y="422.02701" />
+  </g>
+</svg>
