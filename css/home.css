@@ -19,7 +19,7 @@
 	margin: 10px 30px;
 }
 .nav {
-	opacity:0.6;
+	opacity:0.7;
 	-moz-opacity: 0.65;
 	filter: alpha(opacity=65);
 }
@@ -30,15 +30,9 @@
     overflow: hidden;
     background-color: #333;
     width: 100%;
-
-
 }
 .nav li{
-	float: left;
-	
-}
-.nav li:last-child {
-    border-right: none;
+	float: left;	
 }
 .nav li a {
     display: block;
@@ -61,4 +55,24 @@
 	background-position: 1% 1%;
 	background-size: 100%;
 	height: 1000px;
+}
+.social i{
+	float: right;
+	margin: 15px 20px 0 0;
+	padding: 0;
+	color: #000;
+	-moz-transform: scale(5);
+	-webkit-transform: scale(1);
+	-webkit-transition: 0.5s all ease; /* É para pega no Chrome e Safira */
+
+}
+.social i:hover{
+	color: #fff;
+}
+.section{
+	width: 90%;
+	height:500px;
+	background-color: #ccc;
+	opacity: .2;
+	margin-left: 5%;
 }
