@@ -4,83 +4,11 @@ body,
   margin: 0;
   padding: 0;
 }
-.clearfix:after{
-  content: '.';
-  display: block;
-  clear: both;
-  height: 0;
-  line-height: 0;
-  font-size: 0;
-  visibility: hidden;
-  overflow: hidden;
-}
-.menu,
-.sub-menu {
-  list-style: none;
-  background: #000;
-}
-.sub-menu {
-  background: #444;
-}
-.menu a {
-  text-decoration: none;
-  display: block;
-  padding: 10px;
-  color: #fff;
-  font-family: sans-serif;
-  font-size: 14px;
-  text-transform: uppercase;
-  font-weight: 700;
-}
-.menu li {
-  position: relative;
-}
-.menu > li {
-  float: left;
-}
-.menu > li:hover {
-  background: #444;
-}
-.menu li:hover > .sub-menu {
-  display: block;
-}
-.menu li a:hover > .sub-menu {
-  text-decoration: none;
-}
-
-.sub-menu {
-  display: none;
-  position: absolute;
-  min-width: 150px;
-    text-decoration: none;
-}
-
-.sub-menu li:hover {
-  background: #555;
-    text-decoration: none;
-}
-.sub-menu .sub-menu {
-  top: 0;
-  left: 100%;
-}
-
-
-
-
-
-
-
-/*
 .header > p{
-
 	float: right;
-	margin-top: 40px;
-	margin-right: 10px;
-}
-.header{
-	float: right;
-	width: 100%;
-	height: 60px;
+	margin-top: 30px;
+	margin-right: 30px;
+	color: #fff;
 }
 .header > img{
 	width: 40px;
@@ -95,18 +23,7 @@ body,
 	background-size: 100%;
 	height: 1000px;
 }
-.social i{
-	float: right;
-	margin: 15px 20px 0 0;
-	padding: 0;
-	color: #000;
-	-moz-transform: scale(5);
-	-webkit-transform: scale(1);
-	-webkit-transition: 0.5s all ease; 
-	}
-.social i:hover{
-	color: #fff;
-}
+
 .section{
 	width: 90%;
 	height:500px;
@@ -115,58 +32,6 @@ body,
 	margin-left: 5%;
 }
 
-*/
 
 
-/*
-.nav {
 
-	opacity:0.7;
-	-moz-opacity: 0.65;
-	filter: alpha(opacity=65);
-}
-.nav ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: #333;
-    width: 100%;
-    position: relative;
-}
-.nav li{
-	float: left;	
-}
-.nav li a {
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px ;
-    text-decoration: none;
-}
-.nav li a:hover:not(.active) {
-    background-color: #696969;
-}
-.active {
-    background-color: steelblue;
-}
-
-
-.nav li:hover .sub {
-	display: inline-block;
-}
-.nav li:hover .sub li:hover {
-	position: absolute;
-}
-.sub {
-	display: none;
-	list-style-type: none;
-	position: absolute;
-	background:none;
-}
-.sub   li{
-	float: none;
-}
-
-
-*/
