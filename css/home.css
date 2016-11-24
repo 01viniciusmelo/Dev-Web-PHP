@@ -19,7 +19,7 @@
 	margin: 10px 30px;
 
 }
-ul {
+.nav  ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -27,20 +27,20 @@ ul {
     background-color: #333;
     width: 100%;
 }
-li{
+.nav li{
 	float: left;
 }
-li:last-child {
+.nav li:last-child {
     border-right: none;
 }
-li a {
+.nav li a {
     display: block;
     color: white;
     text-align: center;
     padding: 14px ;
     text-decoration: none;
 }
-li a:hover:not(.active) {
+.nav li a:hover:not(.active) {
     background-color: #696969;
 }
 .active {
