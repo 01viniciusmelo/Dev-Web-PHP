@@ -1,8 +1,76 @@
-*{
-	margin: 0px;
-	padding: 0px;
-	color:#fff;
+body, 
+.menu,
+.sub-menu {
+  margin: 0;
+  padding: 0;
 }
+.clearfix:after{
+  content: '.';
+  display: block;
+  clear: both;
+  height: 0;
+  line-height: 0;
+  font-size: 0;
+  visibility: hidden;
+  overflow: hidden;
+}
+.menu,
+.sub-menu {
+  list-style: none;
+  background: #000;
+}
+.sub-menu {
+  background: #444;
+}
+.menu a {
+  text-decoration: none;
+  display: block;
+  padding: 10px;
+  color: #fff;
+  font-family: sans-serif;
+  font-size: 14px;
+  text-transform: uppercase;
+  font-weight: 700;
+}
+.menu li {
+  position: relative;
+}
+.menu > li {
+  float: left;
+}
+.menu > li:hover {
+  background: #444;
+}
+.menu li:hover > .sub-menu {
+  display: block;
+}
+.menu li a:hover > .sub-menu {
+  text-decoration: none;
+}
+
+.sub-menu {
+  display: none;
+  position: absolute;
+  min-width: 150px;
+    text-decoration: none;
+}
+
+.sub-menu li:hover {
+  background: #555;
+    text-decoration: none;
+}
+.sub-menu .sub-menu {
+  top: 0;
+  left: 100%;
+}
+
+
+
+
+
+
+
+/*
 .header > p{
 
 	float: right;
@@ -19,19 +87,52 @@
 	height: 40px;
 	margin: 10px 30px;
 }
+.main{
+	margin: 0px;
+	padding: 0px;
+	background: url('../img/a.jpg') no-repeat;
+	background-position: 1% 1%;
+	background-size: 100%;
+	height: 1000px;
+}
+.social i{
+	float: right;
+	margin: 15px 20px 0 0;
+	padding: 0;
+	color: #000;
+	-moz-transform: scale(5);
+	-webkit-transform: scale(1);
+	-webkit-transition: 0.5s all ease; 
+	}
+.social i:hover{
+	color: #fff;
+}
+.section{
+	width: 90%;
+	height:500px;
+	background-color: #ccc;
+	opacity: .2;
+	margin-left: 5%;
+}
+
+*/
+
+
+/*
 .nav {
 
 	opacity:0.7;
 	-moz-opacity: 0.65;
 	filter: alpha(opacity=65);
 }
-.nav  ul {
+.nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     overflow: hidden;
     background-color: #333;
     width: 100%;
+    position: relative;
 }
 .nav li{
 	float: left;	
@@ -50,43 +151,22 @@
     background-color: steelblue;
 }
 
-.main{
-	margin: 0px;
-	padding: 0px;
-	background: url('../img/a.jpg') no-repeat;
-	background-position: 1% 1%;
-	background-size: 100%;
-	height: 1000px;
-}
-.social i{
-	float: right;
-	margin: 15px 20px 0 0;
-	padding: 0;
-	color: #000;
-	-moz-transform: scale(5);
-	-webkit-transform: scale(1);
-	-webkit-transition: 0.5s all ease; /* É para pega no Chrome e Safira */
 
+.nav li:hover .sub {
+	display: inline-block;
 }
-.social i:hover{
-	color: #fff;
+.nav li:hover .sub li:hover {
+	position: absolute;
 }
-.section{
-	width: 90%;
-	height:500px;
-	background-color: #ccc;
-	opacity: .2;
-	margin-left: 5%;
-}
-
-.sub{
+.sub {
 	display: none;
-    position: absolute;
-    background-color: #f9f9f9;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+	list-style-type: none;
+	position: absolute;
+	background:none;
 }
-.sub:hover ul li a:hover{
-	display: block;
+.sub   li{
+	float: none;
 }
 
+
+*/
