@@ -4,6 +4,7 @@
 	color:#fff;
 }
 .header > p{
+
 	float: right;
 	margin-top: 40px;
 	margin-right: 10px;
@@ -19,6 +20,7 @@
 	margin: 10px 30px;
 }
 .nav {
+
 	opacity:0.7;
 	-moz-opacity: 0.65;
 	filter: alpha(opacity=65);
@@ -76,3 +78,15 @@
 	opacity: .2;
 	margin-left: 5%;
 }
+
+.sub{
+	display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+.sub:hover ul li a:hover{
+	display: block;
+}
+
