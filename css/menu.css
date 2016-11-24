@@ -53,7 +53,7 @@ body,
   	display: block;
 }
 .menu, .sub{
-	opacity:0.7;
+	opacity:0.8;
 	-moz-opacity: 0.44;
 }
 .sub-menu {
@@ -81,7 +81,7 @@ body,
 	color: #fff;
 }
 .menu li a:hover:not(.active) {
-    background-color: #696969;
+    background-color: #fff;
 }
 .active {
     background-color: steelblue;
