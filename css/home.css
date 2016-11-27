@@ -9,7 +9,12 @@ body,
 	background-size: 100%;
 	height: 700px;
 }
+.article{
+	background-color: black;
+	width: 100%;
+	margin: 30px 30px;
 
+}
 
 
 
