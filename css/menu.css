@@ -54,6 +54,7 @@ body,
 	text-decoration: none;
   display: block;
 
+
 }
 .menu, .sub{
 	opacity:0.8;
@@ -68,6 +69,7 @@ body,
 .sub-menu a:hover {
   background: #fff;
   text-decoration: none;
+  border-radius: 10px;
 }
 .menu a:hover {
   background: #fff;
@@ -83,6 +85,7 @@ body,
 	opacity: 0.7;
 	color: #fff;
   margin-right: 10px;
+  border-radius: 80px;
 }
 .menu li a:hover:not(.active) {
     background-color: #fff;
