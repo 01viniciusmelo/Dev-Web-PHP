@@ -1,6 +1,5 @@
 body, 
-.menu,
-.sub-menu {
+.menu{
   margin: 0;
   padding: 0;
 }
@@ -18,15 +17,9 @@ body,
   position: fixed;
   width: 100%;
 }
-.menu,
-.sub-menu {
+.menu {
   list-style: none;
   background: #000;
-}
-.sub-menu {
-	text-decoration: none;
-  	background: #000;
-    
 }
 .menu a {
   list-style-type: none;
@@ -49,43 +42,26 @@ body,
   background: #000;
 }
 
-.menu li:hover > .sub-menu {
+.menu li:hover{
 	list-style-type: none;
 	text-decoration: none;
   display: block;
-
-
 }
-.menu, .sub{
+.menu{
 	opacity:0.8;
 	-moz-opacity: 0.44;
 }
-.sub-menu {
-  display: none;
-  position: absolute;
-  min-width: 150px;
-}
 /*retirando as linhas de baixo do texto*/
-.sub-menu a:hover {
-  background: #fff;
-  text-decoration: none;
-  border-radius: 10px;
-}
 .menu a:hover {
   background: #fff;
   text-decoration: none;
 }
-
-.sub-menu .sub-menu {
-  top: 0;
-  left: 100%;
-}
-.social a{
+.social  a{
 	float: right;
 	opacity: 0.7;
 	color: #fff;
   margin-right: 10px;
-  border-radius: 80px;
+  border-radius: 100px;
 }
 .menu li a:hover:not(.active) {
     background-color: #fff;
