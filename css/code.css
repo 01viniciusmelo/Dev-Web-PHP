@@ -12,7 +12,8 @@ body{
 .quad1{
 	width: 100%;
 	height: 220px;
-	background-color: #aaa;
+
+	
 	margin-top: 7%;
 	margin-left: 0;
 	margin-right: 0;
@@ -34,7 +35,8 @@ body{
 .quad2{
 	width: 100%;
 	height: 220px;
-	background-color: #aaa;
+	
+
 	margin: 1% 0;
 	text-align: center;
 }
@@ -48,6 +50,9 @@ body{
 	margin-right: 1px;
 	margin-bottom: 0;
 	border-radius: 5px;
+
+
+
 }
 /*ajuste da imagem*/
 .quad1 img{
@@ -72,5 +77,25 @@ body{
 /*efeito ao blocos*/
 .bloc1:hover{
 	background-color: #000;
+	opacity: 0.5;
+
+
+	-webkit-transition: all 0.5s linear;
+-moz-transition: all 0.5s linear;
+-ms-transition: all 0.5s linear;
+-o-transition: all 0.5s linear;
+transition: all 0.5s linear;
+
+display: inline-flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
+
+
+
 	
+}
+.flexbox-container {
+  display: inline-flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap-reverse;
 }
