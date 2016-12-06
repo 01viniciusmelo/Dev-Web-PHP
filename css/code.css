@@ -41,7 +41,7 @@ body{
 	border-radius: 5px;
 }
 /*terceiro background*/
-.quad2{
+.quad3{
 	width: 100%;
 	height: 210px;
 	margin: 0.2% 0;
@@ -56,9 +56,6 @@ body{
 	margin-right: 1px;
 	border-radius: 5px;
 }
-
-
-
 /*ajuste da imagem*/
 .quad1 img{
 	margin-top: 10%;
@@ -67,6 +64,12 @@ body{
 	border-radius: 50%;
 }
 .quad2 img{
+	margin-top: 10%;
+	width: 50px;
+	height: 50px;
+	border-radius: 50%;
+}
+.quad3 img{
 	margin-top: 10%;
 	width: 50px;
 	height: 50px;
