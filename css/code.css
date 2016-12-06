@@ -8,14 +8,11 @@ body{
 	background-size: 100%;
 	height: 700px auto;
 }
-/*primeiro quadrante*/
+/*primeiro background*/
 .quad1{
 	width: 100%;
-	height: 220px;
-	margin-top: 1%;
-	margin-left: 0;
-	margin-right: 0;
-	margin-bottom: 0.5%;
+	height: 210px;
+	margin-top: 1.5%;
 	text-align: center;
 }
 .bloc1, .bloc2, .bloc3, .bloc4, .bloc5, .bloc6{
@@ -23,17 +20,15 @@ body{
 	height: 200px;
 	background-color: #ccc;
 	float: left;
-	margin-top: 0.7%;
 	margin-left: 17px;
 	margin-right: 1px;
-	margin-bottom: 0;
 	border-radius: 5px;
 }
-/*segundo quadrante*/
+/*segundo background*/
 .quad2{
 	width: 100%;
-	height: 220px;
-	margin: 0.5% 0;
+	height: 210px;
+	margin: 0.2% 0;
 	text-align: center;
 }
 .a, .b, .c, .d, .e, .f{
@@ -41,12 +36,29 @@ body{
 	height: 200px;
 	background-color: #ccc;
 	float: left;
-	margin-top: 0.7%;
 	margin-left: 17px;
 	margin-right: 1px;
-	margin-bottom: 0;
 	border-radius: 5px;
 }
+/*terceiro background*/
+.quad2{
+	width: 100%;
+	height: 210px;
+	margin: 0.2% 0;
+	text-align: center;
+}
+.a, .b, .c, .d, .e, .f{
+	width: 15%;
+	height: 200px;
+	background-color: #ccc;
+	float: left;
+	margin-left: 17px;
+	margin-right: 1px;
+	border-radius: 5px;
+}
+
+
+
 /*ajuste da imagem*/
 .quad1 img{
 	margin-top: 10%;
@@ -71,9 +83,4 @@ body{
 .bloc1:hover{
 	background-color: #000;
 	opacity: 0.5;
-}
-. {
-  display: inline-flex;
-  flex-direction: row-reverse;
-  flex-wrap: wrap-reverse;
 }
