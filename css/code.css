@@ -4,7 +4,8 @@
 }
 /*corpo*/
 body{
-	background: url('../img/a.jpg') no-repeat;
+	
+	background: url('../img/ice.jpg') no-repeat;
 	background-size: 100%;
 	height: 700px auto;
 }
@@ -18,6 +19,7 @@ body{
 .bloc1, .bloc2, .bloc3, .bloc4, .bloc5, .bloc6{
 	width: 15%;
 	height: 200px;
+	background-color: ;
 	border: solid 1px orangered;
 	opacity: 0.9;
 	float: left;
@@ -118,71 +120,98 @@ body{
 /*ajuste do paragrafo*/
 .quad1 p{
 	margin-top: 50%;
+	margin-left: 3%;
 	background-color: #FF4500;
-	width: auto;
+	width: 95%;
 	height: 20px;
-	border-radius: 20px;
+	border-radius: 5px;
 }
 .quad2 p{
 	margin-top: 50%;
+	margin-left: 3%;
 	background-color: #FF4500;
-	width: auto;
+	width: 95%;
 	height: 20px;
-	border-radius: 20px;
+	border-radius: 5px;
 }
 .quad3 p{
 	margin-top: 50%;
+	margin-left: 3%;
 	background-color: #FF4500;
-	width: auto;
+	width: 95%;
 	height: 20px;
-	border-radius: 20px;
+	border-radius: 5px;
 }
 /*efeito dos blocos*/
 .bloc1:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .bloc2:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .bloc3:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .bloc4:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .bloc5:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .bloc6:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .a:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .b:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .c:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05);
 }
 .d:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .e:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
 .f:hover{
 	background-color: #000;
-	opacity: 0.5;
+	box-shadow: 1px 1px 10px orangered;
+	border: solid 1px;
+	-webkit-transform:scale(1.05) ;
 }
