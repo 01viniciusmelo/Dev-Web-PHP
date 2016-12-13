@@ -13,18 +13,18 @@
 */
 .gallery {
   position: relative;
-  margin: 5% 2%;
+  margin: 0% 0%;
 }
 .gallery .item {
   width: 100%;
-  height: 500px;
+  height: 625px;
   overflow: hidden;
   text-align: center;
   background: #4d87e2;
 }
 .gallery .controls {
   position: absolute;
-  bottom: 0;
+  bottom: 0.5px;
   width: 100%;
   text-align: center;
 }
