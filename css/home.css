@@ -5,8 +5,14 @@
 .section-principal{
 	background-color: #808080;
 	width: 100%;
-	height: 45em;
+	height: 550px;
 	border-bottom: solid 1px #000;
+}
+.section-principal > img{
+	width: 100%;
+	height: 500px;
+	margin-top: 10px;
+	
 }
 .section-secundaria{
 	background-color: #808080;
