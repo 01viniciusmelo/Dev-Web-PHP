@@ -3,7 +3,6 @@
   padding: 0;
 }
 /*corpo*/
-/*primeiro background*/
 body{
 	margin: 0;
 	padding: 0;
@@ -11,46 +10,53 @@ body{
 }/*menu*/
 .menu{
 	width: 100%;
-	height: 5em;
+	height: 4.2em;
 	background-color: #6db33f;
-
 }
 .menu ul{
 	background-color: #34302d;
 	float: right;
 	width: 100%;
-	height: 4.75em;
+	height: 3.92em;
 	margin-top: 0.3em;
 }
 .menu ul li{
-	width: 90px;
-	height: 4.75em;
+	width: 85px;
+	height: 3.92em;
 	float: right;
 	list-style-type:none;
-	margin-right: 20px;
+	margin-right: 40px;
 }
 .menu ul li a{
 	text-decoration: none;
 	color: #FFF;
 }
 .menu ul li a p{
-	margin-top: 30px;
+	margin-top: 20px;
 	text-align: center;
 }
 .menu img{
-	margin-top: 25px;
-	margin-left: 150px;
+	margin-top: 10px;
+	margin-left: 50px;
+	width: 100px;
+	height: 100px;
 }
 /*efeito menu*/
+
 .menu ul li:hover{
 	background-color: #6db33f;
-	border-radius: 1px;
+	border-radius: 0px 1px 50px 1px;
+}
+.menu img:hover{
+	border-radius: 60%;
+	box-shadow: 3px -0.3px 2px 1px #6db33f;
 }
 
-/*estilização da pagina*/
+/*estilização da pagina principal*/
+
 .article-principal{
 	width: 100%;
-	height: 30em;
+	height: 37em;
 	border-top: solid 1px green;
 	background: url('../img/back.jpg') no-repeat; 	
   	background-size: 100% 100%;
@@ -59,7 +65,7 @@ body{
 	width: 250px;
 	height: 250px;
 	margin-left: 40%;
-	margin-top: 3%;
+	margin-top: 5%;
 }
 .article-principal .p{
 	font-size: 30px;
@@ -68,12 +74,73 @@ body{
 	font-family: sans-serif;
 	margin: 40px;
 }
+
+/*estilização da pagina secundária*/
+
+
 .article-secundario{
-	background-color: #34302d;
+	background-color: #6db33f;
 	width: 100%;
 	height: 30em;
 	border-top: solid 1px green;
 }
+.item1, .item2, .item3{
+	float: right;
+	margin: 100px 150px 0px 0px;
+}
+.det-inf{
+	font-family: 'Mirza', cursive;
+}
+.infor{
+	background: transparent;
+	width: 100%;
+	height: 15em;
+}
+.infor img{
+	margin-left: 45%;
+}
+.infor h3{
+	text-align: center;
+	margin: 25px;
+	font-family: 'Cabin Sketch', cursive;
+	font-size: 30px;
+}
+.infor p{
+	text-align: justify-all;
+	margin: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .article-ternario{
 	background-color: #34302d;
 	width: 100%;
