@@ -8,13 +8,52 @@ body{
 	margin: 0;
 	padding: 0;
 	background-color: #34302d;
+}/*menu*/
+.menu{
+	width: 100%;
+	height: 5em;
+	background-color: #6db33f;
 }
+.menu ul{
+	background-color: #34302d;
+	float: right;
+	width: 100%;
+	height: 4.75em;
+	margin-top: 0.3em;
+}
+.menu ul li{
+	float: right;
+	list-style-type:none;
+	margin: 25px 100px 0px 0px;
+
+	
+
+}
+.menu a{
+	text-decoration: none;
+}
+
+
 /*estilização da pagina*/
 .article-principal{
-	background-color: #34302d;
 	width: 100%;
 	height: 30em;
 	border-top: solid 1px green;
+	background: url('../img/back.jpg') no-repeat; 	
+  	background-size: 100% 100%;
+}
+.article-principal img{
+	width: 250px;
+	height: 250px;
+	margin-left: 40%;
+	margin-top: 3%;
+}
+.article-principal .p{
+	font-size: 30px;
+	color: #FFF;
+	text-align: center;
+	font-family: sans-serif;
+	margin: 40px;
 }
 .article-secundario{
 	background-color: #34302d;
