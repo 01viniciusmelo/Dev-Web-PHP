@@ -13,6 +13,7 @@ body{
 	width: 100%;
 	height: 5em;
 	background-color: #6db33f;
+
 }
 .menu ul{
 	background-color: #34302d;
@@ -22,17 +23,29 @@ body{
 	margin-top: 0.3em;
 }
 .menu ul li{
+	width: 90px;
+	height: 4.75em;
 	float: right;
 	list-style-type:none;
-	margin: 25px 100px 0px 0px;
-
-	
-
+	margin-right: 20px;
 }
-.menu a{
+.menu ul li a{
 	text-decoration: none;
+	color: #FFF;
 }
-
+.menu ul li a p{
+	margin-top: 30px;
+	text-align: center;
+}
+.menu img{
+	margin-top: 25px;
+	margin-left: 150px;
+}
+/*efeito menu*/
+.menu ul li:hover{
+	background-color: #6db33f;
+	border-radius: 1px;
+}
 
 /*estilização da pagina*/
 .article-principal{
