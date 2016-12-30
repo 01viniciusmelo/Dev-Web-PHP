@@ -45,11 +45,7 @@ body{
 
 .menu ul li:hover{
 	background-color: #6db33f;
-	border-radius: 0px 1px 50px 1px;
-}
-.menu img:hover{
-	border-radius: 60%;
-	box-shadow: 3px -0.3px 2px 1px #6db33f;
+	border-radius: 0px 1px 1px 1px;
 }
 
 /*estilização da pagina principal*/
@@ -74,6 +70,10 @@ body{
 	font-family: sans-serif;
 	margin: 40px;
 }
+.article-principal img:hover{
+	border-radius: 60%;
+	box-shadow: 0px 0px 10px 1px #6db33f;
+}
 
 /*estilização da pagina secundária*/
 
@@ -84,9 +84,14 @@ body{
 	height: 30em;
 	border-top: solid 1px green;
 }
+.item1, .item2, .item3 {
+	background: transparent;
+	width: 400px;
+	height: 25em;
+}
 .item1, .item2, .item3{
 	float: right;
-	margin: 50px 150px 0px 0px;
+	margin:1% 20px;
 }
 .det-inf{
 	font-family: 'Mirza', cursive;
@@ -97,27 +102,27 @@ body{
 	height: 15em;
 }
 .infor img{
-	margin-left: 20%;
+	margin-left: 125px;
+	margin-bottom: 40px;
 	width: 150px;
 	height: 100px;
 }
-.infor img:hover{
-	border-radius: 50%;
-	opacity: 0.5;
-	box-shadow: 3px -0.3px 2px 1px #34302d;
-}
 .infor h3{
 	text-align: center;
-	margin: 25px;
+	margin: 5px;
 	font-family: 'Cabin Sketch', cursive;
 	font-size: 30px;
 }
 .infor p{
-	text-align: justify;
-	margin: 5px;
+	text-align: center;
+	margin-top: 10px;
 }
 
+.det-inf h3:hover{
+	
 
+
+}
 
 
 
