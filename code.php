@@ -24,8 +24,8 @@
 		<div class="menu">
 			<ul>	
 				<img src="img/fIRELINE.png">
-				<li><a href="#"><p>CONTATO</p></a></li>
-				<li><a href="#"><p>CODE</p></a></li>
+				<li><a href="contato.php"><p>CONTATO</p></a></li>
+				<li><a href="code.php"><p>CODE</p></a></li>
 				<li><a href="index.php"><p>HOME</p></a></li>
 			</ul>
 		</div>
@@ -82,33 +82,13 @@
 		</div>
 		<div class="article-ternario">
 
-			<fieldset>
-				<legend>Formulário de dúvidas</legend>
-				<form>
-					<div class="">
-				        <label for="nome">Nome:</label>
-				        <input type="text" id="nome" />
-				    </div>
-				    <div>
-				        <label for="email">E-mail:</label>
-				        <input type="email" id="email" />
-				    </div>
-				    <div>
-				        <label for="msg">Mensagem:</label>
-				        <textarea id="msg"></textarea>
-				    </div>
-				    <div>
-				        <label for="msg">Mensagem:</label>
-				        <textarea id="msg"></textarea>
-				    </div>
-				    <div>
-				        <label for="msg">Mensagem:</label>
-				        <textarea id="msg"></textarea>
-				    </div>
-	  		</form>
-			</fieldset>
+            <p>Calculadora Salarial - Vigilantes 2017</p>
+
+
+
 
 		</div>
+
 		<div class="article-quartenario">
 		<p>1 informação com imagem, sobre nossos serviços</p>
 			

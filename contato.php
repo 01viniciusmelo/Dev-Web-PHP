@@ -17,7 +17,7 @@
 </head>
 <body>
 <div class="article">
-	<a href="index.html">
+	<a href="index.php">
 	<div class="pannelOne">
 		<p>HOME</p>
 	</div>

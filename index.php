@@ -40,9 +40,9 @@
 				<a href="#" class="tw"><i class="fa fa-twitter fa-lg" aria-hidden="true"></i></a>
 				<a href="#" class="link"><i class="fa fa-linkedin-square fa-lg" aria-hidden="true"></i></a>
 			</div>
-			<li><a class="active"  href="#">HOME</a></li>
-			<li><a href="code.html">code</a></li>
-			<li><a href="#">contato</a></li>
+			<li><a class="active"  href="index.php">HOME</a></li>
+			<li><a href="code.php">code</a></li>
+			<li><a href="contato.php">contato</a></li>
 		</ul>
 	</div>
 
